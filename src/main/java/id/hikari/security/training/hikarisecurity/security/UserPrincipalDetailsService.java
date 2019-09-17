@@ -1,7 +1,7 @@
 package id.hikari.security.training.hikarisecurity.security;
 
 import id.hikari.security.training.hikarisecurity.dao.UserDao;
-import id.hikari.security.training.hikarisecurity.model.User;
+import id.hikari.security.training.hikarisecurity.data.model.User;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

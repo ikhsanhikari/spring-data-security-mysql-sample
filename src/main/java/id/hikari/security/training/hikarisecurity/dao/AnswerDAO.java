@@ -1,6 +1,6 @@
 package id.hikari.security.training.hikarisecurity.dao;
 
-import id.hikari.security.training.hikarisecurity.model.Answer;
+import id.hikari.security.training.hikarisecurity.data.model.Answer;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

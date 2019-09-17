@@ -1,6 +1,6 @@
 package id.hikari.security.training.hikarisecurity.dao;
 
-import id.hikari.security.training.hikarisecurity.model.User;
+import id.hikari.security.training.hikarisecurity.data.model.User;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;

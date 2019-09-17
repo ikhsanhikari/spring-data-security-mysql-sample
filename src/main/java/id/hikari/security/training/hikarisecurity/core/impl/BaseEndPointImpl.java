@@ -2,7 +2,7 @@ package id.hikari.security.training.hikarisecurity.core.impl;
 
 
 import id.hikari.security.training.hikarisecurity.core.BaseEndPoint;
-import id.hikari.security.training.hikarisecurity.data.dto.JsonWrapper;
+import id.hikari.security.training.hikarisecurity.data.dto.response.JsonWrapper;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
